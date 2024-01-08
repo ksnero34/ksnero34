@@ -2,8 +2,10 @@
 
 <br></br>
 ### 🏢 Company
-- 2022.03 ~ Hanwha Generalins  한화손해보험 IT지원파트
+- 2022.03 ~ 2023.03 Hanwha Generalins  한화손해보험 IT장기파트 - 장기업무 개발자
+- 2023.04 ~         Hanwha Generalins  한화손해보험 IT지원파트 - AA(application architecter)
 
+  
 <br></br>
 ### 🗂️ Project
 - 2023.09.01 ~  &nbsp;&nbsp;&nbsp;  [HWGI] 오픈소스APM Scouter 커스터마이징 및 운영
