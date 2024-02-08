@@ -12,6 +12,7 @@
 - 2023.12.01 ~  &nbsp;&nbsp;&nbsp;  [HWGI] Redmine 커스터마이징 적용 및 운영
 - 2023.12.01 ~  &nbsp;&nbsp;&nbsp;  [HWGI] Mattermost 커스터마이징 적용 및 운영
 - 2024.01.02 ~  &nbsp;&nbsp;&nbsp;  [HWGI] 유량제어 솔루션 프로젝트 진행
+- 2024.02.02 ~  &nbsp;&nbsp;&nbsp;  [HWGI] ELK stack 구축 & 커스터마이징
   
 <br></br>
 
