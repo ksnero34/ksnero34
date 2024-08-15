@@ -3,16 +3,16 @@
 <br></br>
 ### 🏢 Company
 - 2022.03 ~ 2023.03 Hanwha Generalins  한화손해보험 IT장기파트 - 장기업무 개발자
-- 2023.04 ~         Hanwha Generalins  한화손해보험 IT지원파트 - AA(application architecter)
+- 2023.04 ~         Hanwha Generalins  한화손해보험 IT지원파트 - AA(application architecter) / 신기술 담당
 
   
 <br></br>
 ### 🗂️ Project
-- 2023.09.01 ~  &nbsp;&nbsp;&nbsp;  [HWGI] 오픈소스APM Scouter 커스터마이징 및 운영
-- 2023.12.01 ~  &nbsp;&nbsp;&nbsp;  [HWGI] Redmine 커스터마이징 적용 및 운영
-- 2023.12.01 ~  &nbsp;&nbsp;&nbsp;  [HWGI] Mattermost 커스터마이징 적용 및 운영
-- 2024.01.02 ~  &nbsp;&nbsp;&nbsp;  [HWGI] 유량제어 솔루션 프로젝트 진행
-- 2024.02.02 ~  &nbsp;&nbsp;&nbsp;  [HWGI] ELK stack 구축 & 커스터마이징
+- 2023.09 ~ 2023.11 &nbsp;&nbsp;&nbsp;  [HWGI] 오픈소스APM Scouter 커스터마이징 및 운영
+- 2023.12 ~ 2024.03 &nbsp;&nbsp;&nbsp;  [HWGI] Redmine 기반 사내 PMS&KMS 개발 및 운영
+- 2023.12 ~ 2024.03 &nbsp;&nbsp;&nbsp;  [HWGI] Mattermost 기반 사내 개발망 메신저 개발 및 운영
+- 2024.01 ~ 2024.03 &nbsp;&nbsp;&nbsp;  [HWGI] 유량제어 솔루션 도입 프로젝트 PM
+- 2024.07 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [HWGI] Cloud Native core 구축
   
 <br></br>
 
