@@ -12,6 +12,7 @@
 - 2023.12 ~ 2024.03 &nbsp;&nbsp;&nbsp;  [HWGI] Redmine 기반 사내 PMS&KMS 개발 및 운영
 - 2023.12 ~ 2024.03 &nbsp;&nbsp;&nbsp;  [HWGI] Mattermost 기반 사내 개발망 메신저 개발 및 운영
 - 2024.01 ~ 2024.03 &nbsp;&nbsp;&nbsp;  [HWGI] 유량제어 솔루션 도입 프로젝트 PM
+- 2024.07 ~ 2024.08 &nbsp;&nbsp;&nbsp;  [HWGI] 웹 기반 업무시간 외 장애접수 서비스 개발
 - 2024.07 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [HWGI] Cloud Native core 구축
   
 <br></br>
